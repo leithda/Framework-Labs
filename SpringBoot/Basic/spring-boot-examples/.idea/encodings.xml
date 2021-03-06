@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-boot-jdbc-template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-jdbc-template/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-jpa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-jsp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis-plus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-mybatis-plus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-security/spring-boot-security-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-security/spring-boot-security-basic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-security/spring-boot-security-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-security/spring-boot-security-jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-shiro/spring-boot-shiro-basic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sprint-boot-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sprint-boot-swagger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sprint-boot-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sprint-boot-web/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
