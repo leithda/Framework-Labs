@@ -8,19 +8,22 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-jsp" />
-        <module name="sprint-boot-web" />
-        <module name="spring-boot-shiro-basic" />
-        <module name="spring-boot-jpa" />
         <module name="spring-boot-security-basic" />
-        <module name="spring-boot-security-jdbc" />
-        <module name="spring-boot-mybatis-plus" />
-        <module name="spring-boot-jdbc-template" />
-        <module name="spring-boot-redis" />
+        <module name="sprint-boot-web" />
+        <module name="spring-boot-jpa" />
+        <module name="spring-boot-validator" />
         <module name="sprint-boot-swagger" />
+        <module name="spring-boot-shiro-basic" />
+        <module name="spring-boot-security-jdbc" />
+        <module name="spring-boot-jdbc-template" />
+        <module name="spring-boot-validate" />
+        <module name="spring-boot-redis" />
+        <module name="spring-boot-mybatis-plus" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="spring-boot-security" target="1.5" />
+      <module name="spring-boot-security" target="1.8" />
+      <module name="spring-boot-validator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

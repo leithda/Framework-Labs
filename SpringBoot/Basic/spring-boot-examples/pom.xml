@@ -21,6 +21,7 @@
         <module>spring-boot-security</module>
         <module>spring-boot-shiro</module>
         <module>spring-boot-jsp</module>
+        <module>spring-boot-validate</module>
     </modules>
 
 </project>
